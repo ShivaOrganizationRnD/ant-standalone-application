@@ -6,7 +6,7 @@ public class HelloWorld {
 
 	public static void main(String[] args) {
 		System.out.println("Hello Welcome to ANT World!! " + getLocalCurrentDate());
-
+		System.out.println("Hello Welcome to ANT World!! " + getLocalCurrentDate());
 		/*
 		 * String testCase;
 		 * 
