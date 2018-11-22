@@ -7,6 +7,7 @@ public class HelloWorld {
 	public static void main(String[] args) {
 		System.out.println("Hello Welcome to ANT World!! " + getLocalCurrentDate());
 		System.out.println("Hello Welcome to ANT World!! " + getLocalCurrentDate());
+		//http://download.eclipse.org/mpc/releases/1.5.1a
 		/*
 		 * String testCase;
 		 * 
